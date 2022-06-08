@@ -1,0 +1,27 @@
+{
+  "name": "errors-middleware-handler",
+  "version": "1.0.0",
+  "description": "A simple expressjs errors handler and middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpinazmul18/errors-middleware-handler.git"
+  },
+  "keywords": [
+    "express",
+    "errors",
+    "middleware",
+    "handler",
+    "await",
+    "async"
+  ],
+  "author": "Md Nazmul Haque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpinazmul18/errors-middleware-handler/issues"
+  },
+  "homepage": "https://github.com/bpinazmul18/errors-middleware-handler#readme"
+}
